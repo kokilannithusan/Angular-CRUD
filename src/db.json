@@ -1,0 +1,17 @@
+{
+  "posts": [
+    {
+      "firstName": "Nithu",
+      "userName": "nithu955",
+      "contactNumber": 772680955,
+      "lastName": "Nithu",
+      "gender": "Male",
+      "password": "1234",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

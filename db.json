@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "firstName": "Kokilan",
+      "userName": "Nithu955",
+      "contactNumber": 772680955,
+      "lastName": "Nithusan",
+      "gender": "Male",
+      "password": "12345",
+      "id": 5
+    },
+    {
+      "firstName": "Kokilan",
+      "userName": "Nithu955",
+      "contactNumber": 772680955,
+      "lastName": "Nithusan",
+      "gender": "Male",
+      "password": "abcd1234",
+      "id": 6
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
